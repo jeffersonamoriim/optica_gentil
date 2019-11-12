@@ -1,0 +1,277 @@
+{
+    "@versao": "4.00",
+    "NFe": {
+       "infNFe": {
+          "@versao": "4.00",
+          "@Id": "NFe35191119400707000113550010000420491008118715",
+          "ide": {
+             "cUF": "35",
+             "cNF": "00811871",
+             "natOp": "VENDA DE MERCADORIA",
+             "mod": "55",
+             "serie": "1",
+             "nNF": "42049",
+             "dhEmi": "2019-11-08T12:08:00-02:00",
+             "tpNF": "1",
+             "idDest": "1",
+             "cMunFG": "3505708",
+             "tpImp": "1",
+             "tpEmis": "1",
+             "cDV": "5",
+             "tpAmb": "1",
+             "finNFe": "1",
+             "indFinal": "0",
+             "indPres": "9",
+             "procEmi": "0",
+             "verProc": "12.1.017 | 3.0"
+          },
+          "emit": {
+             "CNPJ": "19400707000113",
+             "xNome": "SILHOUETTE DO BRASIL PRODUTOS OPTICOS LTDA",
+             "xFant": "SILHOUETTE DO BRASIL PRODUTOS OPTICOS",
+             "enderEmit": {
+                "xLgr": "AV.ENIDA ARUANA",
+                "nro": "280",
+                "xCpl": "CONJ. 11 PAV. 2",
+                "xBairro": "TAMBORE",
+                "cMun": "3505708",
+                "xMun": "BARUERI",
+                "UF": "SP",
+                "CEP": "06460010",
+                "cPais": "1058",
+                "xPais": "BRASIL",
+                "fone": "551126801000"
+             },
+             "IE": "206332879112",
+             "CRT": "3"
+          },
+          "dest": {
+             "CNPJ": "02307559000194",
+             "xNome": "EMPORIO BRASIL IMP. E EXP. LTDA ME",
+             "enderDest": {
+                "xLgr": "RUA MARIA MONTEIRO",
+                "nro": "656",
+                "xCpl": "SALA 1",
+                "xBairro": "CAMBUI",
+                "cMun": "3509502",
+                "xMun": "CAMPINAS",
+                "UF": "SP",
+                "CEP": "13025151",
+                "cPais": "1058",
+                "xPais": "BRASIL",
+                "fone": "1932545012"
+             },
+             "indIEDest": "1",
+             "IE": "795760500114",
+             "email": "CIDA@IRISGENTIL.COM.BR"
+          },
+          "det": [
+             {
+                "@nItem": "1",
+                "prod": {
+                   "cProd": "05097FU62105200",
+                   "cEAN": "888465393987",
+                   "xProd": "DECOR ANEL 5097/FU 6210 52",
+                   "NCM": "90039090",
+                   "CFOP": "5102",
+                   "uCom": "UN",
+                   "qCom": "1.0000",
+                   "vUnCom": "71.0000000000",
+                   "vProd": "71.00",
+                   "cEANTrib": "888465393987",
+                   "uTrib": "UN",
+                   "qTrib": "1.0000",
+                   "vUnTrib": "71.0000000000",
+                   "indTot": "1"
+                },
+                "imposto": {
+                   "ICMS": {
+                      "ICMS00": {
+                         "orig": "1",
+                         "CST": "00",
+                         "modBC": "3",
+                         "vBC": "71.00",
+                         "pICMS": "18.0000",
+                         "vICMS": "12.78"
+                      }
+                   },
+                   "IPI": {
+                      "cEnq": "999",
+                      "IPITrib": {
+                         "CST": "50",
+                         "vBC": "71.00",
+                         "pIPI": "5.0000",
+                         "vIPI": "3.55"
+                      }
+                   },
+                   "PIS": {
+                      "PISAliq": {
+                         "CST": "01",
+                         "vBC": "71.00",
+                         "pPIS": "1.6500",
+                         "vPIS": "1.17"
+                      }
+                   },
+                   "COFINS": {
+                      "COFINSAliq": {
+                         "CST": "01",
+                         "vBC": "71.00",
+                         "pCOFINS": "7.6000",
+                         "vCOFINS": "5.40"
+                      }
+                   }
+                }
+             },
+             {
+                "@nItem": "2",
+                "prod": {
+                   "cProd": "05097FU35105200",
+                   "cEAN": "8884652980468",
+                   "xProd": "DECOR ANEL 5097/FU 3510 52",
+                   "NCM": "90039090",
+                   "CFOP": "5102",
+                   "uCom": "UN",
+                   "qCom": "1.0000",
+                   "vUnCom": "71.0000000000",
+                   "vProd": "71.00",
+                   "cEANTrib": "8884652980468",
+                   "uTrib": "UN",
+                   "qTrib": "1.0000",
+                   "vUnTrib": "71.0000000000",
+                   "indTot": "1"
+                },
+                "imposto": {
+                   "ICMS": {
+                      "ICMS00": {
+                         "orig": "1",
+                         "CST": "00",
+                         "modBC": "3",
+                         "vBC": "71.00",
+                         "pICMS": "18.0000",
+                         "vICMS": "12.78"
+                      }
+                   },
+                   "IPI": {
+                      "cEnq": "999",
+                      "IPITrib": {
+                         "CST": "50",
+                         "vBC": "71.00",
+                         "pIPI": "5.0000",
+                         "vIPI": "3.55"
+                      }
+                   },
+                   "PIS": {
+                      "PISAliq": {
+                         "CST": "01",
+                         "vBC": "71.00",
+                         "pPIS": "1.6500",
+                         "vPIS": "1.17"
+                      }
+                   },
+                   "COFINS": {
+                      "COFINSAliq": {
+                         "CST": "01",
+                         "vBC": "71.00",
+                         "pCOFINS": "7.6000",
+                         "vCOFINS": "5.39"
+                      }
+                   }
+                }
+             }
+          ],
+          "total": {
+             "ICMSTot": {
+                "vBC": "142.00",
+                "vICMS": "25.56",
+                "vICMSDeson": "0.00",
+                "vFCP": "0.00",
+                "vBCST": "0.00",
+                "vST": "0.00",
+                "vFCPST": "0.00",
+                "vFCPSTRet": "0.00",
+                "vProd": "142.00",
+                "vFrete": "0.00",
+                "vSeg": "0.00",
+                "vDesc": "0.00",
+                "vII": "0.00",
+                "vIPI": "7.10",
+                "vIPIDevol": "0.00",
+                "vPIS": "2.34",
+                "vCOFINS": "10.79",
+                "vOutro": "0.00",
+                "vNF": "149.10"
+             }
+          },
+          "transp": {
+             "modFrete": "0"
+          },
+          "cobr": {
+             "fat": {
+                "nFat": "1042049",
+                "vOrig": "149.10",
+                "vLiq": "149.10"
+             },
+             "dup": {
+                "nDup": "001",
+                "dVenc": "2019-12-07",
+                "vDup": "149.10"
+             }
+          },
+          "pag": {
+             "detPag": {
+                "tPag": "15",
+                "vPag": "149.10"
+             }
+          },
+          "infAdic": {
+             "infCpl": "1"
+          }
+       },
+       "Signature": {
+          "SignedInfo": {
+             "CanonicalizationMethod": {
+                "@Algorithm": "http://www.w3.org/TR/2001/REC-xml-c14n-20010315"
+             },
+             "SignatureMethod": {
+                "@Algorithm": "http://www.w3.org/2000/09/xmldsig#rsa-sha1"
+             },
+             "Reference": {
+                "@URI": "#NFe35191119400707000113550010000420491008118715",
+                "Transforms": {
+                   "Transform": [
+                      {
+                         "@Algorithm": "http://www.w3.org/2000/09/xmldsig#enveloped-signature"
+                      },
+                      {
+                         "@Algorithm": "http://www.w3.org/TR/2001/REC-xml-c14n-20010315"
+                      }
+                   ]
+                },
+                "DigestMethod": {
+                   "@Algorithm": "http://www.w3.org/2000/09/xmldsig#sha1"
+                },
+                "DigestValue": "TyivyQzu7M6Z0KVakoaSTDOhETY="
+             }
+          },
+          "SignatureValue": "bS8W7LUpBZgNHMbhd2zjokdpFipbTnuFLPZl/jdlSIJt2eISEn31aaFkZFUw1SId1T1fu5W62l6v96qfH4LwWq7BbyDMHO4yDRDm5DKpk+xK3V3kXdPJ+DI+YdhlPd7HAgD/2yRnaHr/+AwBIIBXXXSLN+IEm2tgd+obGbi0XUs=",
+          "KeyInfo": {
+             "X509Data": {
+                "X509Certificate": "MIICOTCCAaKgAwIBAgIQJpLn3fwH17RNXJHw5VenaDANBgkqhkiG9w0BAQUFADBbMVkwVwYDVQQDHlAAdwB3AHcALgBmAHMAaQBzAHQALgBjAG8AbQAuAGIAcgAgACgAUwBFAE0AIABWAEEATABJAEQAQQBEAEUAIABKAFUAUgDNAEQASQBDAEEAKTAeFw0xNTEyMjQwODI1MjVaFw0xODEyMjQwODI1MjVaMFsxWTBXBgNVBAMeUAB3AHcAdwAuAGYAcwBpAHMAdAAuAGMAbwBtAC4AYgByACAAKABTAEUATQAgAFYAQQBMAEkARABBAEQARQAgAEoAVQBSAM0ARABJAEMAQQApMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDX4BYmJiNwrPz9At2ioXYkMuMWAOf669VPS3SAzIKkJLhSE7Bf9sbTjGHRFZhs6STxKkMBKKnx6dqAEMGlQwDSU42/kqhGya28SUn3HigH2w3dR/536Gt4eAxyLp9ODNXUqWTpnraWCeT41kcnJ27cmOAUMxzxDcsA93n32L4u8wIDAQABMA0GCSqGSIb3DQEBBQUAA4GBAAN89zf+wSFL+4+2Ic8mGva8Z51EzYzNgYEqXwEMHxw4jCxxbsuxewQWedSGWi3SFZla6zmNUEA+UO95tSZ353klTvWDzut2BFSJOPLcMu8HPTTdnMt4ofVeVqKyi2vp+3t78vjqDAAfSAu5C9wT7stoUx41Nok+L6WbmpOIgvHy"
+             }
+          }
+       }
+    },
+    "protNFe": {
+       "@versao": "4.00",
+       "infProt": {
+          "tpAmb": "1",
+          "verAplic": "12.1.017 | 3.0",
+          "chNFe": "35191119400707000113550010000420491008118715",
+          "dhRecbto": "2019-11-08T12:10:00-02:00",
+          "nProt": "135190834351553",
+          "digVal": "ZvzzUxBy2vJjfa204ZXBdfp5Z5k=",
+          "cStat": "100",
+          "xMotivo": "Autorizado o uso da NF-e"
+       }
+    }
+ }
